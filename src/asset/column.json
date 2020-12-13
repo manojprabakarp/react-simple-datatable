@@ -1,0 +1,32 @@
+[
+    {
+        "name": "ID",
+        "selector": "id",
+        "sortable": true
+    },
+    {
+        "name": "First Name",
+        "selector": "fname",
+        "sortable": true
+    },
+    {
+        "name": "Last Name",
+        "selector": "lname",
+        "sortable": true
+    },
+    {
+        "name": "DOB",
+        "selector": "dob",
+        "sortable": true
+    },
+    {
+        "name": "Address",
+        "selector": "address",
+        "sortable": true
+    },
+    {
+        "name": "Pincode",
+        "selector": "pincode",
+        "sortable": true
+    }
+]
